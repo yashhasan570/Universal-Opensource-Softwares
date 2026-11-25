@@ -252,6 +252,7 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [worldmonitor](https://github.com/koala73/worldmonitor) - A real-time global intelligence dashboard with AI-powered news aggregation. (License: AGPL-3.0)
 - [Pi-hole](https://github.com/pi-hole/pi-hole) - A network-wide ad blocker at the DNS level. (License: EUPL-1.2)
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted uptime monitor. (License: MIT)
+- [SiteWatcher](https://github.com/NikKurkov/sitewatcher) - Self-hosted domain registration, DNS change, and website availability monitoring. (License: MIT)
 - [SearXNG](https://github.com/searxng/searxng) - Private metasearch engine aggregating many engines. (License: AGPL-3.0)
 - [Ladybird](https://github.com/LadybirdBrowser/ladybird) - Independent web browser built from scratch. (License: BSD-2-Clause)
 - [frp](https://github.com/fatedier/frp) - Expose local servers behind NAT to the internet. (License: Apache-2.0)
