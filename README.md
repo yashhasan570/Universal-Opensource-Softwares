@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated collection of **300 free, open-source softwares** worth keeping on every device and server: media centers, self-hosted services, personal AI, privacy tools, productivity apps and everyday utilities. Every entry links to the original, actively developed source code. Where several projects serve the same job, only the strongest one is listed.
+A curated collection of **304 free, open-source softwares** worth keeping on every device and server: media centers, self-hosted services, personal AI, privacy tools, productivity apps and everyday utilities. Every entry links to the original, actively developed source code. Where several projects serve the same job, only the strongest one is listed.
 
 ## Contents
 
@@ -10,7 +10,7 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [🎮 Games & Emulation](#games--emulation) (15)
 - [🎨 Creative & Editing](#creative--editing) (21)
 - [🤖 Personal AI](#personal-ai) (16)
-- [🗂 Productivity & Knowledge](#productivity--knowledge) (39)
+- [🗂 Productivity & Knowledge](#productivity--knowledge) (40)
 - [💬 Communication & Social](#communication--social) (15)
 - [🔐 Security & Privacy](#security--privacy) (14)
 - [💾 Photos, Files & Personal Cloud](#photos-files--personal-cloud) (15)
@@ -20,8 +20,8 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [🌐 Internet, News & Downloads](#internet-news--downloads) (19)
 - [💰 Finance & Data](#finance--data) (5)
 - [🏢 Business & Work](#business--work) (9)
-- [📡 Server & Infrastructure](#server--infrastructure) (28)
-- [🛠 Developer Tools](#developer-tools) (56)
+- [📡 Server & Infrastructure](#server--infrastructure) (29)
+- [🛠 Developer Tools](#developer-tools) (57)
 
 
 ## 🎬 Media & Entertainment
@@ -121,6 +121,7 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [Anki](https://github.com/ankitects/anki) - A spaced-repetition flashcard program. (License: AGPL-3.0)
 - [Reactive Resume](https://github.com/AmruthPillai/Reactive-Resume) - A free, open-source resume builder with ATS-friendly PDF export. (License: MIT)
 - [Wallabag](https://github.com/wallabag/wallabag) - A self-hosted read-it-later web application. (License: MIT)
+- [Shiori](https://github.com/go-shiori/shiori) - A self-hosted bookmarks manager with a web UI. (License: MIT)
 - [meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting notes, entirely on your own device. (License: MIT)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Free, privacy-first automated time tracking, cross-platform. (License: MPL-2.0)
 - [macro](https://github.com/macro-inc/macro) - A unified team workspace: email, chat, docs, tasks and calls in one place. (License: AGPL-3.0)
@@ -295,6 +296,7 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [Umami](https://github.com/umami-software/umami) - A privacy-first web and product analytics platform you host yourself. (License: MIT)
 - [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - Open-source self-hosted web archiving: save URLs, history and bookmarks. (License: MIT)
 - [Kubernetes](https://github.com/kubernetes/kubernetes) - Production-grade container orchestration. (License: Apache-2.0)
+- [btop](https://github.com/aristocratos/btop) - A resource monitor for CPU, memory, disks and network. (License: Apache-2.0)
 - [Portainer](https://github.com/portainer/portainer) - Manage Docker and Kubernetes with a web UI. (License: Zlib)
 - [1Panel](https://github.com/1Panel-dev/1Panel) - Modern Linux server control panel. (License: GPL-3.0)
 - [Coolify](https://github.com/coollabsio/coolify) - Self-hosted alternative to Vercel and Netlify. (License: Apache-2.0)
@@ -335,6 +337,8 @@ A curated collection of **300 free, open-source softwares** worth keeping on eve
 - [Warp](https://github.com/warpdotdev/warp) - Agentic terminal for developers. (License: AGPL-3.0)
 - [electerm](https://github.com/electerm/electerm) - Terminal, SSH, SFTP and serial client. (License: MIT)
 - [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web. (License: MIT)
+- [asciinema](https://github.com/asciinema/asciinema) - Record and share terminal sessions as text. (License: GPL-3.0)
+- [Zellij](https://github.com/zellij-org/zellij) - A terminal multiplexer with batteries included. (License: MIT)
 - [Gogs](https://github.com/gogs/gogs) - Painless self-hosted Git service. (License: MIT)
 - [Strapi](https://github.com/strapi/strapi) - Headless CMS built on Node.js. (License: MIT)
 - [Decap CMS](https://github.com/decaporg/decap-cms) - Git-based CMS for static site generators. (License: MIT)
